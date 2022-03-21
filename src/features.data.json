@@ -1,0 +1,32 @@
+[
+ {
+        "heading": "World's best luxury homes",
+        "vectorId": "icon-global",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus."
+    },
+    {
+        "heading": "Only the best properties",
+        "vectorId": "icon-trophy",
+        "description": "Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia."
+    },
+    {
+        "heading": "All homes in in top locations",
+        "vectorId": "icon-map-pin",
+        "description": "Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum."
+    },
+    {
+        "heading": "New home in one week",
+        "vectorId": "icon-key",
+        "description": "Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "heading": "Top 1% realtors",
+        "vectorId": "icon-presentation",
+        "description": "Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus."
+    },
+    {
+        "heading": "Secure payments on nexter",
+        "vectorId": "icon-lock",
+        "description": "Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae."
+    }
+]
