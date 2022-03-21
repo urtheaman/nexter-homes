@@ -1,32 +1,36 @@
-[
+import { IconGlobal, IconKey, IconLock, IconMapPin, IconPresentation, IconTrophy } from "./Vectors"
+
+const FEATURES_DATA = [
  {
         "heading": "World's best luxury homes",
-        "vectorId": "icon-global",
+        "vector": IconGlobal,
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus."
     },
     {
         "heading": "Only the best properties",
-        "vectorId": "icon-trophy",
+        "vector": IconTrophy,
         "description": "Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia."
     },
     {
         "heading": "All homes in in top locations",
-        "vectorId": "icon-map-pin",
+        "vector": IconMapPin,
         "description": "Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum."
     },
     {
         "heading": "New home in one week",
-        "vectorId": "icon-key",
+        "vector": IconKey,
         "description": "Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
         "heading": "Top 1% realtors",
-        "vectorId": "icon-presentation",
+        "vector": IconPresentation,
         "description": "Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus."
     },
     {
         "heading": "Secure payments on nexter",
-        "vectorId": "icon-lock",
+        "vector": IconLock,
         "description": "Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae."
     }
 ]
+
+export default FEATURES_DATA
